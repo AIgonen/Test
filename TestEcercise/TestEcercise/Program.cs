@@ -21,6 +21,8 @@ namespace TestEcercise
             var total = CalculatePeriods(startTime, endTime);
 
             PrintResult(total, startTime, endTime);
+
+            Console.ReadKey();
         }
 
         private static Result CalculatePeriods(DateTime start, DateTime end)
