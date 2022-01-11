@@ -1,0 +1,13 @@
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.exe
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.deps.json
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.runtimeconfig.json
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.runtimeconfig.dev.json
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.dll
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\bin\Debug\netcoreapp3.1\TestEcercise.pdb
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.csprojAssemblyReference.cache
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.AssemblyInfoInputs.cache
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.AssemblyInfo.cs
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.csproj.CoreCompileInputs.cache
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.dll
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.pdb
+C:\Users\Sulearvuti 02 lenovo\source\repos\TestEcercise\TestEcercise\obj\Debug\netcoreapp3.1\TestEcercise.genruntimeconfig.cache
